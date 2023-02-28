@@ -22,7 +22,7 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 ### Links
 
 - Solution URL: [Github repo](https://github.com/itsmemohit/fm-4-card-feature-section)
-- Live Site URL: [Netlify live site url](https://harmonious-manatee-d2bf34.netlify.app/)
+- Live Site URL: [Netlify live site url](https://superlative-chimera-c4bcbd.netlify.app/)
 
 ## My process
 
